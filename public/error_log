@@ -1,0 +1,8 @@
+[22-May-2020 06:06:29 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home1/neonlezaz/public_html/public/index.php on line 50
+[25-May-2020 10:16:56 UTC] PHP Warning:  Unterminated comment starting line 135 in /home1/neonlezaz/public_html/app/Http/Controllers/Backend/Admin/OrderController.php on line 135
+[26-May-2020 08:07:11 UTC] PHP Warning:  Unterminated comment starting line 140 in /home1/neonlezaz/public_html/app/Http/Controllers/Backend/Auth/User/UserController.php on line 140
+[31-May-2020 10:18:17 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home1/qualifyinggradua/public_html/public/index.php on line 50
+[31-May-2020 10:18:36 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home1/qualifyinggradua/public_html/public/index.php on line 50
+[31-May-2020 10:18:38 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home1/qualifyinggradua/public_html/public/index.php on line 50
+[22-Jun-2020 22:26:50 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home2/thelearningforli/public_html/public/index.php on line 50
+[25-Aug-2020 11:05:28 America/Chicago] PHP Warning:  POST Content-Length of 433128640 bytes exceeds the limit of 272629760 bytes in Unknown on line 0
